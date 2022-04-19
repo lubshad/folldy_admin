@@ -69114,7 +69114,7 @@ rh(a,b,c,d){return this.acG(0,b,c,d)},
 acG(a,b,c,d){var s=0,r=A.z(t.z),q,p,o,n,m,l,k,j
 var $async$rh=A.v(function(e,f){if(e===1)return A.w(f,r)
 while(true)switch(s){case 0:for(p=c.length,o=0;o<p;++o)c[o].toString
-n=A.aEh("POST",A.mL("http://35.224.59.116//folldy_admin/api/"+d,0,null))
+n=A.aEh("POST",A.mL("http://35.224.59.116/folldy_admin/api/"+d,0,null))
 b.ad(0,new A.V8(n))
 for(p=c.length,m=n.z,o=0;o<c.length;c.length===p||(0,A.J)(c),++o)m.push(c[o])
 j=A
@@ -69162,7 +69162,7 @@ break
 case 6:case 1:return A.x(q,r)
 case 2:return A.w(o,r)}})
 return A.y($async$cX,r)},
-EY(a,b,c){var s=A.mL("http://35.224.59.116//folldy_admin/api/"+b,0,null)
+EY(a,b,c){var s=A.mL("http://35.224.59.116/folldy_admin/api/"+b,0,null)
 return s}}
 A.V8.prototype={
 $2(a,b){var s,r,q,p
@@ -70937,7 +70937,7 @@ return A.dV(A.a([A.ih(new A.I8(B.xK,s,B.aW,B.ar,!1,r,!0,B.lK,!1,r,p,B.az,B.uy,r,
 $S:173}
 A.abq.prototype={
 $1(a){var s=null
-return A.m8(A.qF(s,A.aqG(A.am8(10),A.arw("http://35.224.59.116/"+a.a.c)),B.az,!1,s,s,s,s,s,s,s,s,s,s,s,new A.abp(this.a,a),s,s,s,s,s,s),B.dO,s,s,s)},
+return A.m8(A.qF(s,A.aqG(A.am8(10),A.arw("http://35.224.59.116"+a.a.c)),B.az,!1,s,s,s,s,s,s,s,s,s,s,s,new A.abp(this.a,a),s,s,s,s,s,s),B.dO,s,s,s)},
 $S:463}
 A.abp.prototype={
 $0(){var s=this.a
@@ -70959,7 +70959,7 @@ p=A.dd(p,B.fz,B.C,B.D)
 q=p}return q},
 $S:17}
 A.abn.prototype={
-$1(a){return A.ms(new A.Fe(0.55,A.aqG(A.am8(10),A.arw("http://35.224.59.116/"+a.b)),null),null,200)},
+$1(a){return A.ms(new A.Fe(0.55,A.aqG(A.am8(10),A.arw("http://35.224.59.116"+a.b)),null),null,200)},
 $S:464}
 A.abo.prototype={
 $1(a){var s=null
