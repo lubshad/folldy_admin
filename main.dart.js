@@ -70218,7 +70218,7 @@ A.pZ.prototype={
 rq(a,b,c,d){return this.adG(0,b,c,d)},
 adG(a,b,c,d){var s=0,r=A.x(t.z),q,p,o,n,m,l,k
 var $async$rq=A.r(function(e,f){if(e===1)return A.u(f,r)
-while(true)switch(s){case 0:for(p=0;p<1;++p);o=A.aFz("POST",A.lk("http://34.70.62.234/folldy_admin/api/"+d,0,null))
+while(true)switch(s){case 0:for(p=0;p<1;++p);o=A.aFz("POST",A.lk("http://143.244.138.169/folldy_admin/api/"+d,0,null))
 b.ae(0,new A.VN(o))
 for(n=o.z,p=0;p<1;++p)n.push(c[p])
 k=A
@@ -70266,7 +70266,7 @@ break
 case 6:case 1:return A.v(q,r)
 case 2:return A.u(o,r)}})
 return A.w($async$cs,r)},
-Fi(a,b,c){var s=A.lk("http://34.70.62.234/folldy_admin/api/"+b,0,null)
+Fi(a,b,c){var s=A.lk("http://143.244.138.169/folldy_admin/api/"+b,0,null)
 return s}}
 A.VN.prototype={
 $2(a,b){var s,r,q,p
@@ -72079,7 +72079,7 @@ o.nj()
 s=t.p
 return A.dG(A.a([A.du(A.a([new A.cQ(B.bd,A.nh(B.bv,B.vD,o.gSw()),n)],s),B.t,B.b3,B.F),A.ij(A.dW(o,new A.a69(o,new A.a6a()),n),1)],s),B.t,B.y,B.F)}}
 A.a6a.prototype={
-$1(a){A.US(A.avn("http","34.70.62.234","/presentation/",A.ah(["presentation_id",B.e.j(a.b)],t.N,t.z)).guV())},
+$1(a){A.US(A.avn("http","143.244.138.169","/presentation/",A.ah(["presentation_id",B.e.j(a.b)],t.N,t.z)).guV())},
 $S:467}
 A.a69.prototype={
 $2(a,b){var s=this.a
@@ -72391,7 +72391,7 @@ n.nm()
 s=t.p
 return A.dG(A.a([A.du(A.a([new A.cQ(B.bd,A.nh(B.bv,B.vC,n.gSB()),m)],s),B.t,B.b3,B.F),A.ij(A.dW(n,new A.acm(n,new A.acn()),m),1)],s),B.t,B.y,B.F)}}
 A.acn.prototype={
-$1(a){A.US(A.avn("http","34.70.62.234","/presentation/",A.ah(["topic_id",B.e.j(a.b)],t.N,t.z)).guV())},
+$1(a){A.US(A.avn("http","143.244.138.169","/presentation/",A.ah(["topic_id",B.e.j(a.b)],t.N,t.z)).guV())},
 $S:480}
 A.acm.prototype={
 $2(a,b){var s=this.a
