@@ -24905,6 +24905,7 @@ aHE(a){if(!B.b.b6(a,"/"))return"/"+a
 return a},
 aZI(a){if(B.b.cV(a,"/"))return B.b.L(a,0,a.length-1)
 return a},
+aC9(){return"http://34.70.92.249"},
 aOX(a){switch(a.a){case 0:return"Something went wrong, please try again later"
 case 1:return"Something went wrong , Please check your network connection"
 case 2:return"Something went wrong , Please check your database connection"
@@ -24933,7 +24934,6 @@ aZY(a){var s=a.length
 if(s===0)return"Phone number is required"
 if(s!==10)return"Phone number must be 10 digits"
 return null},
-aC9(){return"http://143.244.138.169"},
 aHA(a,b){var s
 if(!b){$.ad().toString
 s=!1}else s=!0
@@ -78711,7 +78711,7 @@ A.cV(new A.bk(s,r,"flutter web plugins",p,null,!1))}},
 $S:29}
 A.ad4.prototype={}
 A.a3n.prototype={
-$0(){return new A.ts(new A.tA(A.aO(t.Gf)),"http://143.244.138.169/folldy_admin/api/")},
+$0(){return new A.ts(new A.tA(A.aO(t.Gf)),"http://34.70.92.249/folldy_admin/api/")},
 $S:482}
 A.a3o.prototype={
 $0(){$.ad()
