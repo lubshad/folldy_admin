@@ -1797,6 +1797,7 @@ POSSIBILITY OF SUCH DAMAGE.
 animations
 flutter_lints
 flutter_plugin_android_lifecycle
+palette_generator
 path_provider
 path_provider_android
 path_provider_ios
