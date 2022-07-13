@@ -78895,7 +78895,7 @@ if(s==null)s=$.a0=B.q
 return new A.tY(s.b3(0,null,t.NU))},
 $S:484}
 A.a40.prototype={
-$0(){return new A.q3(B.nZ,$.aR())},
+$0(){return new A.q3(B.nX,$.aR())},
 $S:485}
 A.a41.prototype={
 $0(){var s,r,q,p
@@ -79836,7 +79836,7 @@ s.b3(0,null,t.he).z=this.a
 s=$.a0
 if(s==null)s=$.a0=B.q
 s=s.b3(0,null,t.J9)
-s.a=B.nX
+s.a=B.nY
 s.U()},
 $S:0}
 A.a3g.prototype={
@@ -80660,7 +80660,7 @@ s.b3(0,null,t.Rs).z=this.a
 s=$.a0
 if(s==null)s=$.a0=B.q
 s=s.b3(0,null,t.J9)
-s.a=B.nY
+s.a=B.nZ
 s.U()},
 $S:0}
 A.ake.prototype={
@@ -88091,9 +88091,9 @@ B.bZ=new A.ni(null,null,null,null,null,null,null,null,null,null,null,null)
 B.nW=new A.u6(0,"start")
 B.Eh=new A.u6(1,"middle")
 B.Ei=new A.u6(2,"end")
-B.nX=new A.hn(2,"courses")
-B.nY=new A.hn(3,"subjects")
-B.nZ=new A.hn(6,"appSettings")
+B.nX=new A.hn(0,"dashboard")
+B.nY=new A.hn(2,"courses")
+B.nZ=new A.hn(3,"subjects")
 B.Eo=new A.u7(null,null,null,null,null)
 B.En=new A.u7(null,null,0,null,null)
 B.y=new A.aX(0)
@@ -88396,11 +88396,11 @@ B.GF=new A.NA(0,"list")
 B.GH=new A.v_(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.GG=new A.v_(!0,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.GL=A.b(s([0,1]),t.n)
-B.Ej=new A.hn(0,"dashboard")
-B.Ek=new A.hn(1,"universities")
-B.El=new A.hn(4,"presentations")
-B.Em=new A.hn(5,"institutions")
-B.GN=A.b(s([B.Ej,B.Ek,B.nX,B.nY,B.El,B.Em,B.nZ]),A.V("w<hn>"))
+B.Ej=new A.hn(1,"universities")
+B.Ek=new A.hn(4,"presentations")
+B.El=new A.hn(5,"institutions")
+B.Em=new A.hn(6,"appSettings")
+B.GN=A.b(s([B.nX,B.Ej,B.nY,B.nZ,B.Ek,B.El,B.Em]),A.V("w<hn>"))
 B.oC=A.b(s([13,10]),t.t)
 B.oD=A.b(s([200,202]),t.t)
 B.GQ=A.b(s([B.eG,B.oa,B.ob,B.F,B.bh,B.oc,B.cp,B.od,B.hx]),A.V("w<iI>"))
