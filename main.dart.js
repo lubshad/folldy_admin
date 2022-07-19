@@ -77892,7 +77892,7 @@ if(s==null)s=$.X=B.o
 return new A.tP(s.aK(0,null,t.NU))},
 $S:467}
 A.a3O.prototype={
-$0(){return new A.pS(B.nQ,$.aO())},
+$0(){return new A.pS(B.nO,$.aO())},
 $S:468}
 A.a3P.prototype={
 $0(){return A.aOy()},
@@ -78907,7 +78907,7 @@ s.aK(0,null,t.he).z=this.a
 s=$.X
 if(s==null)s=$.X=B.o
 s=s.aK(0,null,t.J9)
-s.a=B.nO
+s.a=B.nP
 s.N()},
 $S:0}
 A.a32.prototype={
@@ -79765,7 +79765,7 @@ s.aK(0,null,t.Rs).z=this.a
 s=$.X
 if(s==null)s=$.X=B.o
 s=s.aK(0,null,t.J9)
-s.a=B.nP
+s.a=B.nQ
 s.N()},
 $S:0}
 A.ajC.prototype={
@@ -87397,9 +87397,9 @@ B.bZ=new A.n5(null,null,null,null,null,null,null,null,null,null,null,null)
 B.nN=new A.tX(0,"start")
 B.E6=new A.tX(1,"middle")
 B.E7=new A.tX(2,"end")
-B.nO=new A.fU(2,"courses")
-B.nP=new A.fU(3,"subjects")
-B.nQ=new A.fU(6,"users")
+B.nO=new A.fU(0,"dashboard")
+B.nP=new A.fU(2,"courses")
+B.nQ=new A.fU(3,"subjects")
 B.Ee=new A.tY(null,null,null,null,null)
 B.Ed=new A.tY(null,null,0,null,null)
 B.z=new A.b6(0)
@@ -87865,12 +87865,12 @@ B.m3=new A.l_(3,"justify")
 B.a_=new A.l_(4,"start")
 B.wT=new A.l_(5,"end")
 B.In=A.b(s([B.m2,B.wR,B.wS,B.m3,B.a_,B.wT]),A.V("w<l_>"))
-B.E8=new A.fU(0,"dashboard")
-B.E9=new A.fU(1,"universities")
-B.Ea=new A.fU(4,"presentations")
-B.Eb=new A.fU(5,"institutions")
+B.E8=new A.fU(1,"universities")
+B.E9=new A.fU(4,"presentations")
+B.Ea=new A.fU(5,"institutions")
+B.Eb=new A.fU(6,"users")
 B.Ec=new A.fU(7,"appSettings")
-B.Io=A.b(s([B.E8,B.E9,B.nO,B.nP,B.Ea,B.Eb,B.nQ,B.Ec]),A.V("w<fU>"))
+B.Io=A.b(s([B.nO,B.E8,B.nP,B.nQ,B.E9,B.Ea,B.Eb,B.Ec]),A.V("w<fU>"))
 B.Iq=A.b(s([!0,!1]),t.HZ)
 B.oF=A.b(s(["bind","if","ref","repeat","syntax"]),t.s)
 B.oG=A.b(s([0,4,12,1,5,13,3,7,15]),t.t)
