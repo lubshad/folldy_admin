@@ -24929,7 +24929,7 @@ aHF(a){if(!B.b.b4(a,"/"))return"/"+a
 return a},
 aZx(a){if(B.b.cO(a,"/"))return B.b.N(a,0,a.length-1)
 return a},
-aCe(){return"http://139.59.47.11"},
+aCe(){return"http://143.244.138.169"},
 aOX(a){switch(a.a){case 0:return"Something went wrong, please try again later"
 case 1:return"Something went wrong , Please check your network connection"
 case 2:return"Something went wrong , Please check your database connection"
@@ -77965,7 +77965,7 @@ A.cW(new A.bl(s,r,"flutter web plugins",p,null,!1))}},
 $S:27}
 A.adm.prototype={}
 A.a3V.prototype={
-$0(){return new A.tm(new A.zd(A.aS(t.Gf)),"http://139.59.47.11/folldy_admin/api/")},
+$0(){return new A.tm(new A.zd(A.aS(t.Gf)),"http://143.244.138.169/folldy_admin/api/")},
 $S:465}
 A.a3W.prototype={
 $0(){$.a3()
